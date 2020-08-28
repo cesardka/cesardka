@@ -9,7 +9,7 @@ Currently, I work as a full-stack developer at [Dinamize](https://www.dinamize.c
 - 🐘 PHP + jQuery for our services panel
 - 🦉 Angular for our new frontend projects (e.g. porting a legacy website from Wordpress to Angular 9)
 
-#### 🏃 My current side projects include:  
+#### 🏃 My current side projects and studies include:  
 - 🚀 [Rocketseat](https://rocketseat.com.br/)'s GoStack course  
 Learning and improving my NodeJS, ReactJS and React Native skills with top-notch teachers
 
