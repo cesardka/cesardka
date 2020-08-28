@@ -20,7 +20,7 @@ Learning the proper methods and improving my acessibility, CSS and design skills
 Started off as just a React project emulating Netflix's layout tutored by [Alura](https://www.alura.com.br/). Nowadays, the main intent is to turn this project into an actual virtual library archiving as much content from [Tiririca](http://www.tiriricanaweb.com.br/) as possible
 
 - 🎙 [TryCast](https://open.spotify.com/show/61abhmJ4vFG9idDtrkz9oP)  
-Co-hosting my podcast on uni, along with colleagues, professors and coordinators interviewing profesisonals, discussing trends, and news related to IT
+Co-hosting my podcast on uni, along with colleagues, professors and coordinators interviewing IT professionals about their workfields, discussing trends, and news related to IT
 
 #### 💬 Contact me:
 - 🔗 [Linkedin](https://www.linkedin.com/in/c%C3%A9sar-hoffmann-bb9b8975/)
