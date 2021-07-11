@@ -2,7 +2,7 @@
 
 #### 🦍 About me:  
 
-My name is Cesar Hoffmann, I am a 27 years old brazilian coder that loves to make wacky and colorful pages.
+My name is Cesar Hoffmann, I am a 28 years old brazilian coder that loves to make wacky and colorful pages.
 
 Currently, I work as a full-stack developer at [Dinamize](https://www.dinamize.com.br/), using the following technologies:
 - 🎿 Golang for our microservices
