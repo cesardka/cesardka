@@ -4,10 +4,11 @@
 
 My name is Cesar Hoffmann, I am a 28 years old brazilian coder that loves to make wacky and colorful pages.
 
-Currently, I work as a full-stack developer at [Dinamize](https://www.dinamize.com.br/), using the following technologies:
-- 🎿 Golang for our microservices
-- 🐘 PHP + jQuery for our services panel
-- 🦉 Angular for our new frontend projects (e.g. porting a legacy website from Wordpress to Angular 9)
+Currently, I work as a front-end developer consultant at [ThoughtWorks](https://www.thoughtworks.com), using the following technologies:
+- ⚛️ ReactJS for our micro front-end (MFE)
+- 🧩 CSS-in-JS
+- 🕴️ Server Side Rendering (SSR)
+- 🃏 Jest, while also following TDD whenever it is fitting.
 
 #### 🏃 My current side projects and studies include:  
 - 🚀 [Rocketseat](https://rocketseat.com.br/)'s GoStack bootcamp  
