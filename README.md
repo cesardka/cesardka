@@ -8,7 +8,7 @@ Currently, I work as a front-end developer consultant at [ThoughtWorks](https://
 - ⚛️ ReactJS for our micro front-end (MFE)
 - 🧩 CSS-in-JS
 - 🕴️ Server Side Rendering (SSR)
-- 🃏 Jest, while also following TDD whenever it is fitting.
+- 🃏 Jest, while also following TDD whenever it is fitting (tip: everytime).
 
 #### 🏃 My current side projects and studies include:  
 - 🚀 [Rocketseat](https://rocketseat.com.br/)'s GoStack bootcamp  
@@ -24,7 +24,7 @@ Started off as just a React project emulating Netflix's layout tutored by [Alura
 Co-hosting my podcast on uni, along with colleagues, professors and coordinators interviewing IT professionals about their workfields, discussing trends, and news related to IT
 
 #### 💬 Contact me:
-- 🔗 [Linkedin](https://www.linkedin.com/in/c%C3%A9sar-hoffmann-bb9b8975/)
+- 🔗 [Linkedin](https://www.linkedin.com/in/c%C3%A9sar-hoffmann/)
 - 🐦 [Twitter](https://twitter.com/cesardka)
 - 👴🏼 [E-mail](mailto:cesardka@hotmail.com)
 
