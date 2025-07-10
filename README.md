@@ -2,26 +2,26 @@
 
 #### 🦍 About me:  
 
-My name is Cesar Hoffmann, I am a 28 years old brazilian coder that loves to make wacky and colorful pages.
+My name is Cesar Hoffmann, I am a 32 years old brazilian coder that loves to make wacky and colorful pages.
 
-Currently, I work as a front-end developer consultant at [ThoughtWorks](https://www.thoughtworks.com), using the following technologies:
-- ⚛️ ReactJS for our micro front-end (MFE)
-- 🧩 CSS-in-JS
-- 🕴️ Server Side Rendering (SSR)
-- 🃏 Jest, while also following TDD whenever it is fitting (tip: everytime).
+Currently, I work as a Senior Software Engineer at [X-Team](https://x-team.com/) and allocated at [Riot Games](https://www.riotgames.com/en), using the following technologies:
+- ⚛️ NextJS, React
+- 🪃 Golang, NestJS, Node, Python
+- 🧩 TailwindCSS, Styled-components
+- 🃏 Jest, while also following TDD standards whenever it is fitting (tip: everytime).
 
 #### 🏃 My current side projects and studies include:  
+
+- 🃏 [Jornada do Baralho](https://jornada-do-baralho-8p6pa3kwj-cesar-hs-projects.vercel.app/)
+Project currently is a WIP, but is my passion side project dedicated to Nerdcast and Jovem Nerd, paying homage to everyone that was part of their over 20 years long story
+
+### 📚 Courses that definitely ramped up my career in the past:
+
 - 🚀 [Rocketseat](https://rocketseat.com.br/)'s GoStack bootcamp  
 Learning and improving my NodeJS, ReactJS and React Native skills with top-notch teachers on an 8 weeks long cycle
 
 - 🖌 [Origamid](https://www.origamid.com/)'s Design and Code courses  
 Learning the proper methods and improving my acessibility, CSS and design skills
-
-- 🤡 [abestadoflix](https://abestadoflix.vercel.app/)  
-Started off as just a React project emulating Netflix's layout tutored by [Alura](https://www.alura.com.br/). Nowadays, the main intent is to turn this project into an actual virtual library archiving as much content from [Tiririca](http://www.tiriricanaweb.com.br/) as possible
-
-- 🎙 [TryCast](https://open.spotify.com/show/61abhmJ4vFG9idDtrkz9oP)  
-Co-hosting my podcast on uni, along with colleagues, professors and coordinators interviewing IT professionals about their workfields, discussing trends, and news related to IT
 
 #### 💬 Contact me:
 - 🔗 [Linkedin](https://www.linkedin.com/in/c%C3%A9sar-hoffmann/)
