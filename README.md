@@ -6,7 +6,7 @@ My name is Cesar Hoffmann, I am a 32 years old brazilian coder that loves to mak
 
 Currently, I work as a Senior Software Engineer at [X-Team](https://x-team.com/) and allocated at [Riot Games](https://www.riotgames.com/en), using the following technologies:
 - ⚛️ NextJS, React
-- 🪃 Golang, NestJS, Node, Python
+- 🪃 Golang, NestJS, Node
 - 🧩 TailwindCSS, Styled-components
 - 🃏 Jest, while also following TDD standards whenever it is fitting (tip: everytime).
 
